@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\main.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\main.cpp\"",
+  "file": "D:/c++ projects/zavod/src/main.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\app\\App.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\app\\App.cpp\"",
+  "file": "D:/c++ projects/zavod/src/app/App.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/app/App.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\infrastructure\\InputFileParser.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\infrastructure\\InputFileParser.cpp\"",
+  "file": "D:/c++ projects/zavod/src/infrastructure/InputFileParser.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\infrastructure\\TokenReader.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\infrastructure\\TokenReader.cpp\"",
+  "file": "D:/c++ projects/zavod/src/infrastructure/TokenReader.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\infrastructure\\ValidationError.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\infrastructure\\ValidationError.cpp\"",
+  "file": "D:/c++ projects/zavod/src/infrastructure/ValidationError.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\domain\\Event.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\domain\\Event.cpp\"",
+  "file": "D:/c++ projects/zavod/src/domain/Event.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\application\\SimulationEngine.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\application\\SimulationEngine.cpp\"",
+  "file": "D:/c++ projects/zavod/src/application/SimulationEngine.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\application\\MachineSelector.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\application\\MachineSelector.cpp\"",
+  "file": "D:/c++ projects/zavod/src/application/MachineSelector.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\application\\EventDispatcher.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\application\\EventDispatcher.cpp\"",
+  "file": "D:/c++ projects/zavod/src/application/EventDispatcher.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj"
+},
+{
+  "directory": "D:/c++ projects/zavod/build",
+  "command": "C:\\Users\\User\\Documents\\mingw64\\bin\\g++.exe  @CMakeFiles/factory_sim.dir/includes_CXX.rsp -g -std=c++20 -o CMakeFiles\\factory_sim.dir\\src\\application\\OutputFormatter.cpp.obj -c \"D:\\c++ projects\\zavod\\src\\application\\OutputFormatter.cpp\"",
+  "file": "D:/c++ projects/zavod/src/application/OutputFormatter.cpp",
+  "output": "CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj"
+}
+]

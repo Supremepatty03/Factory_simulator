@@ -1,0 +1,3 @@
+C:\Users\User\Documents\mingw64\bin\cmake.exe -E rm -f CMakeFiles\factory_sim.dir/objects.a
+C:\Users\User\Documents\mingw64\bin\ar.exe qc CMakeFiles\factory_sim.dir/objects.a @CMakeFiles\factory_sim.dir\objects1.rsp
+C:\Users\User\Documents\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\factory_sim.dir/objects.a -Wl,--no-whole-archive -o factory_sim.exe -Wl,--out-implib,libfactory_sim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\factory_sim.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:/c++ projects/zavod/build/CMakeFiles/factory_sim.dir
+D:/c++ projects/zavod/build/CMakeFiles/edit_cache.dir
+D:/c++ projects/zavod/build/CMakeFiles/rebuild_cache.dir

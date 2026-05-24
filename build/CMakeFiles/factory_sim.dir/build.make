@@ -52,10 +52,10 @@ RM = C:\Users\User\Documents\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\c++ projects\zavod"
+CMAKE_SOURCE_DIR = D:\c++projects\zavod
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\c++ projects\zavod\build"
+CMAKE_BINARY_DIR = D:\c++projects\zavod\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/factory_sim.dir/depend.make
@@ -73,153 +73,153 @@ CMakeFiles/factory_sim.dir/codegen:
 
 CMakeFiles/factory_sim.dir/src/main.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/main.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/main.cpp.obj: D:/c++\ projects/zavod/src/main.cpp
+CMakeFiles/factory_sim.dir/src/main.cpp.obj: D:/c++projects/zavod/src/main.cpp
 CMakeFiles/factory_sim.dir/src/main.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/factory_sim.dir/src/main.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/main.cpp.obj -MF CMakeFiles\factory_sim.dir\src\main.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\main.cpp.obj -c "D:\c++ projects\zavod\src\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/factory_sim.dir/src/main.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/main.cpp.obj -MF CMakeFiles\factory_sim.dir\src\main.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\main.cpp.obj -c D:\c++projects\zavod\src\main.cpp
 
 CMakeFiles/factory_sim.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/main.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\main.cpp" > CMakeFiles\factory_sim.dir\src\main.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\main.cpp > CMakeFiles\factory_sim.dir\src\main.cpp.i
 
 CMakeFiles/factory_sim.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/main.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\main.cpp" -o CMakeFiles\factory_sim.dir\src\main.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\main.cpp -o CMakeFiles\factory_sim.dir\src\main.cpp.s
 
 CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: D:/c++\ projects/zavod/src/app/App.cpp
+CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: D:/c++projects/zavod/src/app/App.cpp
 CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/factory_sim.dir/src/app/App.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/app/App.cpp.obj -MF CMakeFiles\factory_sim.dir\src\app\App.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\app\App.cpp.obj -c "D:\c++ projects\zavod\src\app\App.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/factory_sim.dir/src/app/App.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/app/App.cpp.obj -MF CMakeFiles\factory_sim.dir\src\app\App.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\app\App.cpp.obj -c D:\c++projects\zavod\src\app\App.cpp
 
 CMakeFiles/factory_sim.dir/src/app/App.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/app/App.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\app\App.cpp" > CMakeFiles\factory_sim.dir\src\app\App.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\app\App.cpp > CMakeFiles\factory_sim.dir\src\app\App.cpp.i
 
 CMakeFiles/factory_sim.dir/src/app/App.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/app/App.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\app\App.cpp" -o CMakeFiles\factory_sim.dir\src\app\App.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\app\App.cpp -o CMakeFiles\factory_sim.dir\src\app\App.cpp.s
 
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: D:/c++\ projects/zavod/src/infrastructure/InputFileParser.cpp
+CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: D:/c++projects/zavod/src/infrastructure/InputFileParser.cpp
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.obj -c "D:\c++ projects\zavod\src\infrastructure\InputFileParser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.obj -c D:\c++projects\zavod\src\infrastructure\InputFileParser.cpp
 
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\infrastructure\InputFileParser.cpp" > CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\infrastructure\InputFileParser.cpp > CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.i
 
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\infrastructure\InputFileParser.cpp" -o CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\infrastructure\InputFileParser.cpp -o CMakeFiles\factory_sim.dir\src\infrastructure\InputFileParser.cpp.s
 
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: D:/c++\ projects/zavod/src/infrastructure/TokenReader.cpp
+CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: D:/c++projects/zavod/src/infrastructure/TokenReader.cpp
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.obj -c "D:\c++ projects\zavod\src\infrastructure\TokenReader.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.obj -c D:\c++projects\zavod\src\infrastructure\TokenReader.cpp
 
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\infrastructure\TokenReader.cpp" > CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\infrastructure\TokenReader.cpp > CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.i
 
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\infrastructure\TokenReader.cpp" -o CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\infrastructure\TokenReader.cpp -o CMakeFiles\factory_sim.dir\src\infrastructure\TokenReader.cpp.s
 
 CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj: D:/c++\ projects/zavod/src/infrastructure/ValidationError.cpp
+CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj: D:/c++projects/zavod/src/infrastructure/ValidationError.cpp
 CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.obj -c "D:\c++ projects\zavod\src\infrastructure\ValidationError.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.obj -MF CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.obj -c D:\c++projects\zavod\src\infrastructure\ValidationError.cpp
 
 CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\infrastructure\ValidationError.cpp" > CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\infrastructure\ValidationError.cpp > CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.i
 
 CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/infrastructure/ValidationError.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\infrastructure\ValidationError.cpp" -o CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\infrastructure\ValidationError.cpp -o CMakeFiles\factory_sim.dir\src\infrastructure\ValidationError.cpp.s
 
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: D:/c++\ projects/zavod/src/domain/Event.cpp
+CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: D:/c++projects/zavod/src/domain/Event.cpp
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj -MF CMakeFiles\factory_sim.dir\src\domain\Event.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\domain\Event.cpp.obj -c "D:\c++ projects\zavod\src\domain\Event.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj -MF CMakeFiles\factory_sim.dir\src\domain\Event.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\domain\Event.cpp.obj -c D:\c++projects\zavod\src\domain\Event.cpp
 
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/domain/Event.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\domain\Event.cpp" > CMakeFiles\factory_sim.dir\src\domain\Event.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\domain\Event.cpp > CMakeFiles\factory_sim.dir\src\domain\Event.cpp.i
 
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/domain/Event.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\domain\Event.cpp" -o CMakeFiles\factory_sim.dir\src\domain\Event.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\domain\Event.cpp -o CMakeFiles\factory_sim.dir\src\domain\Event.cpp.s
 
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: D:/c++\ projects/zavod/src/application/SimulationEngine.cpp
+CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: D:/c++projects/zavod/src/application/SimulationEngine.cpp
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.obj -c "D:\c++ projects\zavod\src\application\SimulationEngine.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.obj -c D:\c++projects\zavod\src\application\SimulationEngine.cpp
 
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\application\SimulationEngine.cpp" > CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\application\SimulationEngine.cpp > CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.i
 
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\application\SimulationEngine.cpp" -o CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\application\SimulationEngine.cpp -o CMakeFiles\factory_sim.dir\src\application\SimulationEngine.cpp.s
 
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: D:/c++\ projects/zavod/src/application/MachineSelector.cpp
+CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: D:/c++projects/zavod/src/application/MachineSelector.cpp
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.obj -c "D:\c++ projects\zavod\src\application\MachineSelector.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.obj -c D:\c++projects\zavod\src\application\MachineSelector.cpp
 
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\application\MachineSelector.cpp" > CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\application\MachineSelector.cpp > CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.i
 
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\application\MachineSelector.cpp" -o CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\application\MachineSelector.cpp -o CMakeFiles\factory_sim.dir\src\application\MachineSelector.cpp.s
 
 CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj: D:/c++\ projects/zavod/src/application/EventDispatcher.cpp
+CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj: D:/c++projects/zavod/src/application/EventDispatcher.cpp
 CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.obj -c "D:\c++ projects\zavod\src\application\EventDispatcher.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.obj -c D:\c++projects\zavod\src\application\EventDispatcher.cpp
 
 CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\application\EventDispatcher.cpp" > CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\application\EventDispatcher.cpp > CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.i
 
 CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/application/EventDispatcher.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\application\EventDispatcher.cpp" -o CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\application\EventDispatcher.cpp -o CMakeFiles\factory_sim.dir\src\application\EventDispatcher.cpp.s
 
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: CMakeFiles/factory_sim.dir/flags.make
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: CMakeFiles/factory_sim.dir/includes_CXX.rsp
-CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: D:/c++\ projects/zavod/src/application/OutputFormatter.cpp
+CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: D:/c++projects/zavod/src/application/OutputFormatter.cpp
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: CMakeFiles/factory_sim.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.obj -c "D:\c++ projects\zavod\src\application\OutputFormatter.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj"
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj -MF CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.obj.d -o CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.obj -c D:\c++projects\zavod\src\application\OutputFormatter.cpp
 
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.i"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\c++ projects\zavod\src\application\OutputFormatter.cpp" > CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.i
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\c++projects\zavod\src\application\OutputFormatter.cpp > CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.i
 
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.s"
-	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\c++ projects\zavod\src\application\OutputFormatter.cpp" -o CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.s
+	C:\Users\User\Documents\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\c++projects\zavod\src\application\OutputFormatter.cpp -o CMakeFiles\factory_sim.dir\src\application\OutputFormatter.cpp.s
 
 # Object files for target factory_sim
 factory_sim_OBJECTS = \
@@ -251,7 +251,7 @@ factory_sim.exe: CMakeFiles/factory_sim.dir/build.make
 factory_sim.exe: CMakeFiles/factory_sim.dir/linkLibs.rsp
 factory_sim.exe: CMakeFiles/factory_sim.dir/objects1.rsp
 factory_sim.exe: CMakeFiles/factory_sim.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="D:\c++ projects\zavod\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable factory_sim.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\c++projects\zavod\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable factory_sim.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\factory_sim.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -263,6 +263,6 @@ CMakeFiles/factory_sim.dir/clean:
 .PHONY : CMakeFiles/factory_sim.dir/clean
 
 CMakeFiles/factory_sim.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\c++ projects\zavod" "D:\c++ projects\zavod" "D:\c++ projects\zavod\build" "D:\c++ projects\zavod\build" "D:\c++ projects\zavod\build\CMakeFiles\factory_sim.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\c++projects\zavod D:\c++projects\zavod D:\c++projects\zavod\build D:\c++projects\zavod\build D:\c++projects\zavod\build\CMakeFiles\factory_sim.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/factory_sim.dir/depend
 

@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: \
- D:\c++\ projects\zavod\src\application\OutputFormatter.cpp \
- D:/c++\ projects/zavod/include/application/OutputFormatter.hpp \
+ D:\c++projects\zavod\src\application\OutputFormatter.cpp \
+ D:/c++projects/zavod/include/application/OutputFormatter.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/string \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -107,8 +107,8 @@ CMakeFiles/factory_sim.dir/src/application/OutputFormatter.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/tuple \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ranges_util.h \
- D:/c++\ projects/zavod/include/domain/Event.hpp \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:/c++projects/zavod/include/domain/Event.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
  C:/Users/User/Documents/mingw64/x86_64-w64-mingw32/include/stdint.h \

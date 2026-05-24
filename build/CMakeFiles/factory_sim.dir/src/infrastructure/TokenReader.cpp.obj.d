@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/infrastructure/TokenReader.cpp.obj: \
- D:\c++\ projects\zavod\src\infrastructure\TokenReader.cpp \
- D:/c++\ projects/zavod/include/infrastructure/TokenReader.hpp \
+ D:\c++projects\zavod\src\infrastructure\TokenReader.cpp \
+ D:/c++projects/zavod/include/infrastructure/TokenReader.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/fstream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \

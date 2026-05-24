@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: \
- D:\c++\ projects\zavod\src\app\App.cpp \
- D:/c++\ projects/zavod/include/app/App.hpp \
+ D:\c++projects\zavod\src\app\App.cpp \
+ D:/c++projects/zavod/include/app/App.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/string \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -107,18 +107,18 @@ CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/tuple \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ranges_util.h \
- D:/c++\ projects/zavod/include/infrastructure/InputFileParser.hpp \
- D:/c++\ projects/zavod/include/infrastructure/SimulationConfig.hpp \
+ D:/c++projects/zavod/include/infrastructure/InputFileParser.hpp \
+ D:/c++projects/zavod/include/infrastructure/SimulationConfig.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/vector \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_uninitialized.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_vector.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_bvector.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/vector.tcc \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
  C:/Users/User/Documents/mingw64/x86_64-w64-mingw32/include/stdint.h \
- D:/c++\ projects/zavod/include/application/SimulationEngine.hpp \
+ D:/c++projects/zavod/include/application/SimulationEngine.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/iostream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/ostream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ostream.h \
@@ -171,7 +171,7 @@ CMakeFiles/factory_sim.dir/src/app/App.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/deque.tcc \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_heap.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_queue.h \
- D:/c++\ projects/zavod/include/domain/Machine.hpp \
- D:/c++\ projects/zavod/include/domain/Product.hpp \
- D:/c++\ projects/zavod/include/domain/Event.hpp \
- D:/c++\ projects/zavod/include/application/MachineSelector.hpp
+ D:/c++projects/zavod/include/domain/Machine.hpp \
+ D:/c++projects/zavod/include/domain/Product.hpp \
+ D:/c++projects/zavod/include/domain/Event.hpp \
+ D:/c++projects/zavod/include/application/MachineSelector.hpp

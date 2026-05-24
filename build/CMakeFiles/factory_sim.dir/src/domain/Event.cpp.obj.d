@@ -1,7 +1,7 @@
 CMakeFiles/factory_sim.dir/src/domain/Event.cpp.obj: \
- D:\c++\ projects\zavod\src\domain\Event.cpp \
- D:/c++\ projects/zavod/include/domain/Event.hpp \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:\c++projects\zavod\src\domain\Event.cpp \
+ D:/c++projects/zavod/include/domain/Event.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/os_defines.h \

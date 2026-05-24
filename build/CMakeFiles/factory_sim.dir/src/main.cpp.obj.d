@@ -1,5 +1,5 @@
 CMakeFiles/factory_sim.dir/src/main.cpp.obj: \
- D:\c++\ projects\zavod\src\main.cpp \
+ D:\c++projects\zavod\src\main.cpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/iostream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -152,4 +152,4 @@ CMakeFiles/factory_sim.dir/src/main.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ostream.tcc \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/istream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/istream.tcc \
- D:/c++\ projects/zavod/include/app/App.hpp
+ D:/c++projects/zavod/include/app/App.hpp

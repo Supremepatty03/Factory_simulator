@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/c++ projects/zavod/build"
+			"value" : "d:/c++projects/zavod/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Users/User/Documents/mingw64/bin/g++.exe"
 		},
 		{
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/c++ projects/zavod/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/c++projects/zavod/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/c++ projects/zavod"
+			"value" : "D:/c++projects/zavod"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/c++ projects/zavod/build"
+			"value" : "D:/c++projects/zavod/build"
 		},
 		{
 			"name" : "FactorySimulation_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/c++ projects/zavod"
+			"value" : "D:/c++projects/zavod"
 		}
 	],
 	"kind" : "cache",

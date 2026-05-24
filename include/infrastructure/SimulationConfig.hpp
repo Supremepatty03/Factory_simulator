@@ -15,6 +15,4 @@ struct SimulationConfig {
 
     // initialQueues[j] = список типов изделий в очереди станка j
     vector<vector<domain::TypeId>> initialQueues;
-
-    // Сюда позже можно добавить уже готовые изделия с их id
 };

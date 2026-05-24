@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: \
- D:\c++\ projects\zavod\src\infrastructure\InputFileParser.cpp \
- D:/c++\ projects/zavod/include/infrastructure/InputFileParser.hpp \
+ D:\c++projects\zavod\src\infrastructure\InputFileParser.cpp \
+ D:/c++projects/zavod/include/infrastructure/InputFileParser.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/string \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -107,20 +107,20 @@ CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/tuple \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ranges_util.h \
- D:/c++\ projects/zavod/include/infrastructure/SimulationConfig.hpp \
+ D:/c++projects/zavod/include/infrastructure/SimulationConfig.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/vector \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_uninitialized.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_vector.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_bvector.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/vector.tcc \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
  C:/Users/User/Documents/mingw64/x86_64-w64-mingw32/include/stdint.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/limits \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/utility \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_relops.h \
- D:/c++\ projects/zavod/include/infrastructure/TokenReader.hpp \
+ D:/c++projects/zavod/include/infrastructure/TokenReader.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/fstream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/istream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/ios \
@@ -173,4 +173,4 @@ CMakeFiles/factory_sim.dir/src/infrastructure/InputFileParser.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/fstream.tcc \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/optional \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/enable_special_members.h \
- D:/c++\ projects/zavod/include/infrastructure/ValidationError.hpp
+ D:/c++projects/zavod/include/infrastructure/ValidationError.hpp

@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: \
- D:\c++\ projects\zavod\src\application\SimulationEngine.cpp \
- D:/c++\ projects/zavod/include/application/SimulationEngine.hpp \
+ D:\c++projects\zavod\src\application\SimulationEngine.cpp \
+ D:/c++projects/zavod/include/application/SimulationEngine.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/iostream \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -164,15 +164,15 @@ CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/vector.tcc \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_heap.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_queue.h \
- D:/c++\ projects/zavod/include/infrastructure/SimulationConfig.hpp \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:/c++projects/zavod/include/infrastructure/SimulationConfig.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
  C:/Users/User/Documents/mingw64/x86_64-w64-mingw32/include/stdint.h \
- D:/c++\ projects/zavod/include/domain/Machine.hpp \
- D:/c++\ projects/zavod/include/domain/Product.hpp \
- D:/c++\ projects/zavod/include/domain/Event.hpp \
- D:/c++\ projects/zavod/include/application/MachineSelector.hpp \
+ D:/c++projects/zavod/include/domain/Machine.hpp \
+ D:/c++projects/zavod/include/domain/Product.hpp \
+ D:/c++projects/zavod/include/domain/Event.hpp \
+ D:/c++projects/zavod/include/application/MachineSelector.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/algorithm \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_algo.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/algorithmfwd.h \
@@ -184,4 +184,4 @@ CMakeFiles/factory_sim.dir/src/application/SimulationEngine.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/pstl/execution_defs.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/utility \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_relops.h \
- D:/c++\ projects/zavod/include/application/OutputFormatter.hpp
+ D:/c++projects/zavod/include/application/OutputFormatter.hpp

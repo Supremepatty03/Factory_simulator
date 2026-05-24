@@ -1,6 +1,6 @@
 CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: \
- D:\c++\ projects\zavod\src\application\MachineSelector.cpp \
- D:/c++\ projects/zavod/include/application/MachineSelector.hpp \
+ D:\c++projects\zavod\src\application\MachineSelector.cpp \
+ D:/c++projects/zavod/include/application/MachineSelector.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/vector \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/requires_hosted.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -70,7 +70,7 @@ CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/uses_allocator_args.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/tuple \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/ranges_util.h \
- D:/c++\ projects/zavod/include/infrastructure/SimulationConfig.hpp \
+ D:/c++projects/zavod/include/infrastructure/SimulationConfig.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/string \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stringfwd.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/char_traits.h \
@@ -113,11 +113,11 @@ CMakeFiles/factory_sim.dir/src/application/MachineSelector.cpp.obj: \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cerrno \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/charconv.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/basic_string.tcc \
- D:/c++\ projects/zavod/include/domain/Types.hpp \
+ D:/c++projects/zavod/include/domain/Types.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/cstdint \
  C:/Users/User/Documents/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
  C:/Users/User/Documents/mingw64/x86_64-w64-mingw32/include/stdint.h \
- D:/c++\ projects/zavod/include/domain/Machine.hpp \
+ D:/c++projects/zavod/include/domain/Machine.hpp \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/deque \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/stl_deque.h \
  C:/Users/User/Documents/mingw64/include/c++/15.1.0/bits/deque.tcc \
